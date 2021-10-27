@@ -163,7 +163,7 @@ body .container .ios {
   }
   @supports not (-webkit-touch-callout: none) {
     .qr_code {
-      content: url("./assets/qr-android.png");
+      content: url("assets/qr-android.png");
     }
     .ios {
       display: none !important;
